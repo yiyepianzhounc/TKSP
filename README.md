@@ -2,7 +2,7 @@
 
  
 
-This is a code release of paper *TKSP: Long-term Stance Prediction for Social Media Users by Fusing Time Series Features and Event Dynamic Evolution Knowledge* on KSEM2023.
+This is a code release of paper _Zijian Zhou, Shuoyu Hu, Kai Yang, Haizhou Wang*. TKSP: Long-term Stance Prediction for Social Media Users by Fusing Time Series Features and Event Dynamic Evolution Knowledge [C]. Proceeding of the 16th International Conference on Knowledge Science, Engineering and Management (KSEM 2023), Guangzhou, China, August 16-18, 2023, pp. 406-421._
 
 #### Our code is composed of two parts.
 
